@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e6oWKM+Azk1P1JgNXlKuWkFM9N5x+ZFgcI+pKfjpl7D1Vbs4A4a9w7nB4Yo+DdRMD29Fwt2zJcxpEShsxYcr+g==",
+  "success": true,
+  "projectFilePath": "F:\\Pigraid-Games\\NbtParser\\NbtParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antoi\\.nuget\\packages\\minet.fnbt\\1.0.22\\minet.fnbt.1.0.22.nupkg.sha512",
+    "C:\\Users\\antoi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
