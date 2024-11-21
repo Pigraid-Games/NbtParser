@@ -1,0 +1,12 @@
+F:\Pigraid-Games\NbtParser\bin\Debug\net8.0\NbtParser.deps.json
+F:\Pigraid-Games\NbtParser\bin\Debug\net8.0\NbtParser.dll
+F:\Pigraid-Games\NbtParser\bin\Debug\net8.0\NbtParser.pdb
+F:\Pigraid-Games\NbtParser\obj\Debug\net8.0\NbtParser.csproj.AssemblyReference.cache
+F:\Pigraid-Games\NbtParser\obj\Debug\net8.0\NbtParser.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pigraid-Games\NbtParser\obj\Debug\net8.0\NbtParser.AssemblyInfoInputs.cache
+F:\Pigraid-Games\NbtParser\obj\Debug\net8.0\NbtParser.AssemblyInfo.cs
+F:\Pigraid-Games\NbtParser\obj\Debug\net8.0\NbtParser.csproj.CoreCompileInputs.cache
+F:\Pigraid-Games\NbtParser\obj\Debug\net8.0\NbtParser.dll
+F:\Pigraid-Games\NbtParser\obj\Debug\net8.0\refint\NbtParser.dll
+F:\Pigraid-Games\NbtParser\obj\Debug\net8.0\NbtParser.pdb
+F:\Pigraid-Games\NbtParser\obj\Debug\net8.0\ref\NbtParser.dll
