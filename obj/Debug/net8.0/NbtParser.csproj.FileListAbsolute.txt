@@ -10,3 +10,4 @@ F:\Pigraid-Games\NbtParser\obj\Debug\net8.0\NbtParser.dll
 F:\Pigraid-Games\NbtParser\obj\Debug\net8.0\refint\NbtParser.dll
 F:\Pigraid-Games\NbtParser\obj\Debug\net8.0\NbtParser.pdb
 F:\Pigraid-Games\NbtParser\obj\Debug\net8.0\ref\NbtParser.dll
+F:\Pigraid-Games\NbtParser\obj\Debug\net8.0\NbtParser.sourcelink.json

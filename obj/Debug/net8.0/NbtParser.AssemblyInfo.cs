@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NbtParser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdbf742001c1d2c95bbe6f12fc0bec71958fe119")]
 [assembly: System.Reflection.AssemblyProductAttribute("NbtParser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NbtParser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
