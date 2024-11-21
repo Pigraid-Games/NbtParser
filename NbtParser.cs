@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using fNbt;
+﻿using fNbt;
 using fNbt.Tags;
 using Newtonsoft.Json;
 
@@ -186,11 +184,11 @@ public class NbtParser
                     break;
                 case Newtonsoft.Json.Linq.JTokenType.Integer:
                     var value = (long)item;
-                    if (value >= short.MinValue && value <= short.MaxValue)
+                    if (value is >= short.MinValue and <= short.MaxValue)
                     {
                         nbtList.Add(new NbtShort(null, (short)value));
                     }
-                    else if (value >= int.MinValue && value <= int.MaxValue)
+                    else if (value is >= int.MinValue and <= int.MaxValue)
                     {
                         nbtList.Add(new NbtInt(null, (int)value));
                     }
