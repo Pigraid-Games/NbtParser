@@ -6,7 +6,7 @@ NbtParser: A utility library for parsing NBT (Named Binary Tag) data into JSON a
 ## Features
 * Convert NBT structures (NbtCompound) to JSON for easy manipulation.
 * Parse JSON back into NBT structures for MiNET Minecraft Server operations.
-* Supports Vvarious NBT tag types, including:
+* Supports Various NBT tag types, including:
   * Primivite types: `Byte`, `Short`, `Int`, `Long`, `Float`, `Double`
   * Complex types: `String`, `ByteArray`, `IntArray`, `LongArray`, `Compound`, `List`
 * Handles nested NBT structures.
