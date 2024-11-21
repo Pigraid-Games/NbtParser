@@ -4,7 +4,7 @@ using Newtonsoft.Json;
 
 namespace NbtParser;
 
-public class NbtParser
+public static class NbtParser
 {
     public static string? ParseToJson(NbtCompound? nbtCompound)
     {
