@@ -1,11 +1,11 @@
 # NbtParser
 
 ## Overview
-NbtParser: A utility library for parsing NBT (Named Binary Tag) data into JSON and vice versa, facilitating seamless dta exchange between MiNET Minecraft Server objects and external systems.
+NbtParser: A utility library for parsing NBT (Named Binary Tag) data into JSON and vice versa, facilitating seamless dta exchange between PigNet Minecraft Server objects and external systems.
 
 ## Features
 * Convert NBT structures (NbtCompound) to JSON for easy manipulation.
-* Parse JSON back into NBT structures for MiNET Minecraft Server operations.
+* Parse JSON back into NBT structures for PigNet Minecraft Server operations.
 * Supports Various NBT tag types, including:
   * Primivite types: `Byte`, `Short`, `Int`, `Long`, `Float`, `Double`
   * Complex types: `String`, `ByteArray`, `IntArray`, `LongArray`, `Compound`, `List`
@@ -13,8 +13,8 @@ NbtParser: A utility library for parsing NBT (Named Binary Tag) data into JSON a
 
 ## Installation
 ### Prerequisites
-* A Minecraft server using MiNET.
-* If you are using a fork of MiNET, make sure that it uses the nugget package `MiNET.fnbt v1.0.22`
+* A Minecraft server using PigNet.
+* If you are using a fork of PigNet, make sure that it uses the nugget package `MiNET.fnbt v1.0.22`
 
 ### Setup
 1. Clone the repository
